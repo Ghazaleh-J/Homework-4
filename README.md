@@ -9,6 +9,7 @@ The deployed page on Github : https://ghazaleh-j.github.io/Homework-4/
 
 Site Preview:
 
+![quiz](https://user-images.githubusercontent.com/100667382/164947298-73c77fc0-2ecc-4e27-a2e5-97d4d1d98722.png)
 
 
 
